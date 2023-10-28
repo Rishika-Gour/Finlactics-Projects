@@ -1,6 +1,6 @@
 # Finlactics-Projects
 
-Project 1:
+## Project 1:
 
  • Conducted an "Acquisition Strategy Exploration" project for an Indian IT company, evaluating margin improvement challenges and recommending potential acquisitions of niche technology firms with larger customer bases.
  
@@ -8,7 +8,7 @@ Project 1:
 
 
  
-Project 2:
+## Project 2:
 
  • Analyzed South West Monsoons' timing and duration across Indian states using MS Excel.
  
@@ -18,7 +18,7 @@ Project 2:
 
 
  
-Project 3:
+## Project 3:
 
  • Analyzed 'Product Sales' case study using Excel and Power BI to create visuals.
  
